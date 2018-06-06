@@ -1,3 +1,5 @@
 # CodingInterviews
 
-剑指Offer题解（Java 版本实现）
+剑指 Offer（第二版）
+
+Java 版题解
